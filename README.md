@@ -87,12 +87,13 @@ RAG • ChromaDB • Vector Search • MCP • SQL Analysis • Data Modeling
 
 ## 📫 Connect
 
-📧 **[rongalitulasiramtarun@gmail.com](mailto:rongalitulasiramtarun@gmail.com)**
+ **[rongalitulasiramtarun@gmail.com](mailto:rongalitulasiramtarun@gmail.com)**
 
-💼 **LinkedIn:** linkedin.com/in/rongalitulasiramtarun
+ **LinkedIn:** linkedin.com/in/rongalitulasiramtarun
 
-🧑‍💻 **GitHub:** github.com/RONGALI-TARUN
+ **GitHub:** github.com/RONGALI-TARUN
 
+**Portfolio** https://rtrtarun.github.io/
 ---
 
 ### ⚡ Passionate about building scalable systems, solving complex engineering challenges, and continuously learning new technologies.
