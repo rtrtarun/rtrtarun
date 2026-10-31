@@ -1,100 +1,89 @@
 # 👋 Hey, I'm Tarun
 
-### Backend Engineer | Cloud Enthusiast | Distributed Systems Explorer
+### AI Engineer · Backend Engineer (Java, Golang) · Agent & Platform Builder
 
-I enjoy building scalable backend systems, cloud-native applications, and event-driven architectures. My interests span distributed systems, developer tooling, observability, data platforms, and AI-powered engineering solutions.
+I build production AI systems and the backends underneath them: agent platforms, RAG pipelines, evaluation tooling, and event-driven cloud services. I care about AI that is grounded, evaluated, observable and safe to ship.
 
 ---
 
 ## 🚀 What I Work With
 
 ```text
-Languages      → Go • Java • TypeScript • JavaScript • Python
-Backend        → Spring Boot • Node.js • REST APIs • Microservices
-Data           → Kafka • PostgreSQL • MongoDB • DynamoDB • MySQL
-Cloud          → AWS • Azure
-Observability  → OpenTelemetry • Metrics • Logs • Tracing
-DevOps         → GitHub Actions • Jenkins • CI/CD
-AI & Data      → RAG • Vector Databases • LLM Integrations
+AI & Agents    → LangGraph • deepagents • LangChain • MCP • RAG • Hybrid Retrieval • LLM-as-a-Judge
+Evaluation     → DeepEval • Ragas • Golden Datasets • Regression Gates
+LLMOps         → Langfuse • OpenTelemetry • Datadog • Token & Cost Metrics
+Languages      → Python • Java • Golang • TypeScript • JavaScript • SQL
+Backend        → FastAPI • Spring Boot • Node.js • REST • GraphQL • Microservices
+Data           → PostgreSQL • MongoDB • DynamoDB • Kafka • Debezium • ChromaDB
+Cloud & DevOps → AWS • Azure • Terraform • Kubernetes • Docker • GitHub Actions
 ```
+
+---
+
+## 🧭 What I've Been Building
+
+* **Internal agent platform**: async FastAPI + PostgreSQL service that runs agents on LangGraph and deepagents as signed, immutable versions, with autonomy levels, human approval, PII and prompt-injection guards, an approval-gated MCP registry and FinOps budgets.
+* **LLM evaluation platform**: DeepEval + Ragas checks on every pull request, a REST API for runs, datasets and experiments, and an architecture gap analysis.
+* **DB-Agent**: database and repository intelligence with hybrid RAG, text-to-SQL, and a 17-tool MCP server.
+* **Event-driven backends** in Java, Golang and Node.js on AWS: CDC, Kafka audit relays, archiving pipelines, tagging APIs.
+* **Observability**: shared OpenTelemetry/Datadog libraries with customer-context log enrichment.
+
+---
+
+## 📌 Pinned Projects
+
+* [Agentic-notification](https://github.com/rtrtarun/Agentic-notification): attention-orchestration platform where critical events bypass AI and only low-risk events are classified (Go, Java, React, NATS, PostgreSQL).
+* [quick-comers-observability-poc](https://github.com/rtrtarun/quick-comers-observability-poc): reusable observability module giving any Spring Boot service correlated logs, traces and metrics (Java, OpenTelemetry, Prometheus, Docker).
 
 ---
 
 ## 🎯 Areas of Interest
 
-* Distributed Systems
-* Event-Driven Architecture
-* Cloud-Native Development
-* Data Engineering & Streaming
-* Backend Performance Optimization
-* Observability & Reliability Engineering
-* System Design
-* AI-Powered Developer Tools
-* Database Intelligence & Analytics
+* Agentic systems and the MCP ecosystem
+* LLM evaluation, guardrails and AI observability
+* Retrieval-Augmented Generation and hybrid search
+* Distributed systems and event-driven architecture
+* Cloud-native platform engineering
+* Backend performance (Go and Java)
+* System design
 
 ---
 
 ## 🌱 Currently Exploring
 
-* Advanced System Design
-* Stream Processing & Real-Time Analytics
-* Performance Optimization in Go
-* AI Agents & MCP Ecosystem
-* Retrieval-Augmented Generation (RAG)
-* Scalable Data Platforms
+* Production agent evaluation and release gates
+* Cross-encoder reranking and retrieval quality benchmarks
+* Stream processing and real-time analytics
+* Performance optimization in Go
 
 ---
 
-## 🛠️ Technologies
+## 🏅 Certifications
 
-### Languages
-
-Go • Java • TypeScript • JavaScript • Python
-
-### Backend & Architecture
-
-Spring Boot • Hibernate • Node.js • REST APIs • Microservices • Event-Driven Systems
-
-### Data & Streaming
-
-Kafka • PostgreSQL • MongoDB • DynamoDB • MySQL • Debezium • Protobuf
-
-### Cloud & DevOps
-
-AWS Lambda • ECS • Step Functions • S3 • CloudWatch • IAM • Azure • GitHub Actions • Jenkins
-
-### Observability
-
-OpenTelemetry • Distributed Tracing • Logging • Metrics • Monitoring
-
-### Developer Tools & AI
-
-RAG • ChromaDB • Vector Search • MCP • SQL Analysis • Data Modeling
+Claude Certified Architect – Foundations · Claude Partner Badge (Claude Code) · Google Cloud Gemini Enterprise & Agent Development Kit · Reinvention with Agentic AI (Accenture)
 
 ---
 
 ## 🤝 Open to Collaborate On
 
-* Backend Services in Go
-* Event-Driven Applications
-* Kafka-Based Systems
-* Data Pipeline Projects
-* Open Source Infrastructure Tools
-* Observability Platforms
-* Cloud-Native Applications
+* Agent and RAG projects
+* LLM evaluation and observability tooling
+* Backend services in Go and Java
+* Event-driven and Kafka-based systems
+* Open source infrastructure tools
 
 ---
 
 ## 📫 Connect
 
- **[rongalitulasiramtarun@gmail.com](mailto:rongalitulasiramtarun@gmail.com)**
+ **Email:** [rongalitulasiramtarun@gmail.com](mailto:rongalitulasiramtarun@gmail.com)
 
- **LinkedIn:** linkedin.com/in/rongalitulasiramtarun
+ **LinkedIn:** [linkedin.com/in/rongalitulasiramtarun](https://www.linkedin.com/in/rongalitulasiramtarun/)
 
- **GitHub:** github.com/RONGALI-TARUN
-  
- **Portfolio** https://rtrtarun.github.io/
-  
+ **GitHub:** [github.com/rtrtarun](https://github.com/rtrtarun)
+
+ **Portfolio:** [rtrtarun.github.io](https://rtrtarun.github.io/)
+
 ---
 
-### ⚡ Passionate about building scalable systems, solving complex engineering challenges, and continuously learning new technologies.
+### ⚡ Building AI that is grounded, evaluated and observable, on backends that scale.
