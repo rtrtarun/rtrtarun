@@ -92,8 +92,9 @@ RAG • ChromaDB • Vector Search • MCP • SQL Analysis • Data Modeling
  **LinkedIn:** linkedin.com/in/rongalitulasiramtarun
 
  **GitHub:** github.com/RONGALI-TARUN
-
-**Portfolio** https://rtrtarun.github.io/
+  
+ **Portfolio** https://rtrtarun.github.io/
+  
 ---
 
 ### ⚡ Passionate about building scalable systems, solving complex engineering challenges, and continuously learning new technologies.
